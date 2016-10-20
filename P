@@ -1,0 +1,5 @@
+*****   Factoriales   *****
+Introduce un numero
+5
+el factorial de 5 es 120
+BUILD SUCCESSFUL (total time: 4 seconds)
